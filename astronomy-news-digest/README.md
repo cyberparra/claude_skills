@@ -43,7 +43,8 @@ Apri una chat su [claude.ai](https://claude.ai) e incolla questo messaggio:
 
 ```
 Installa questa skill dal repository GitHub:
-https://github.com/cyberparra/claude-skills/blob/main/astronomy-news-digest/astronomy-news-digest.skill
+
+https://github.com/cyberparra/claude_skills/tree/main/astronomy-news-digest
 
 Il file si chiama astronomy-news-digest.skill
 ```
