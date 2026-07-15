@@ -11,6 +11,7 @@ Le skill estendono le capacità di Claude permettendogli di eseguire task specif
 | Skill | Descrizione | Output |
 |-------|-------------|--------|
 | [🌌 Astronomy News Digest](./astronomy-news-digest/) | Raccoglie le ultime notizie di astronomia e spazio da 10 fonti autorevoli | Google Doc |
+| [🔎 Five-Lens Text Analysis](./five-lens-text-analysis/) | Analizza un testo (link o documento) da 5 angolazioni indipendenti: contenuto evidente, non detto, interessi nascosti, controcampo, fake detector | File Markdown |
 
 *Altre skill in arrivo…*
 
