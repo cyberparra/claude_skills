@@ -22,7 +22,7 @@ Il modo più semplice è chiedere direttamente a Claude. Apri una chat su [claud
 
 ```
 Installa questa skill dal repository GitHub:
-https://github.com/[tuo-username]/claude-skills/tree/main/[nome-skill]
+https://github.com/cyberparra/claude-skills/tree/main/[nome-skill]
 
 Il file si chiama [nome-skill].skill
 ```
