@@ -33,7 +33,7 @@ Analizza questo documento e dimmi cosa non dice / chi ci guadagna / se contiene 
 - Serve accesso a ricerca web (`web_search`/`web_fetch`) per la Lente 5
 
 ## Installazione
-
+Vai su Claude e chiedi:
 ```
 Installa questa skill dal repository GitHub:
 https://github.com/cyberparra/claude-skills/tree/main/five-lens-text-analysis
